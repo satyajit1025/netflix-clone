@@ -19,4 +19,4 @@ This project involves creating a responsive Netflix landing page using HTML and 
 1. Responsive Design: The landing page should be fully responsive, providing an optimal user experience on desktops, tablets, and mobile devices.
 2. Pixel-Perfect Replication: The design should closely match the original Netflix landing page in terms of layout, color scheme, typography, and overall aesthetics.
 # Website Overflow
-![316115956-f4b5d6d8-71ca-44f1-9f93-9b040abc5bd5](https://github.com/satyajit1025/netflix-clone/assets/159767209/0304878c-cd04-4766-b02d-59e3dd7438b1)
+![Web capture_19-6-2024_133425_127 0 0 1](https://github.com/satyajit1025/netflix-clone/assets/159767209/87bfe4c3-690a-44eb-9946-5430aafcac6e)
