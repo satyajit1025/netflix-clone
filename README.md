@@ -1,6 +1,7 @@
 # netflix-clone
 This project involves creating a responsive Netflix landing page using HTML and CSS. The goal is to replicate the clean, user-friendly interface of Netflix's homepage, including the logo, navigation menu, promotional banner, and a call-to-action section. This project helps in understanding the use of Flexbox for layout design, responsive media queries, and basic CSS transitions for interactive elements.
 # https://netwebapp.netlify.app
+## dfhdhdfh
 # Techstack Used:
 1. HTML
 2. CSS
